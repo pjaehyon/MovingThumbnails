@@ -1,0 +1,1 @@
+info = {'sheet': 'naver_farm','thumbnail': 7, 'html': 9, 'product_code': 10}
